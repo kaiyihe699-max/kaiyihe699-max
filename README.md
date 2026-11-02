@@ -1,18 +1,12 @@
-<div align="center">
-  <img src="./assets/profile-banner.svg" alt="Visual systems · Color workflows · Creative tools" width="100%" />
-</div>
+![Visual systems · Color workflows · Creative tools](./assets/profile-banner.svg)
 
-<h1 align="center">把审美判断，沉淀成可复用的工具。</h1>
+# 把审美判断，沉淀成可复用的工具。
 
-<p align="center">视觉创作 · 影像与色彩 · 创作型工具</p>
+**视觉创作 · 影像与色彩 · 创作型工具**
 
-<p align="center">从画面和色彩实验出发，把想法整理成能持续使用的工作流。</p>
+从画面和色彩实验出发，把想法整理成能持续使用的工作流。
 
-<p align="center">
-  <a href="https://github.com/kaiyihe699-max/codex-skills">创作工具</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/kaiyihe699-max/classical-page-lab">古籍版式实验</a>
-</p>
+[创作工具](https://github.com/kaiyihe699-max/codex-skills)　·　[古籍版式实验](https://github.com/kaiyihe699-max/classical-page-lab)
 
 ---
 
@@ -32,4 +26,6 @@
 - **视觉系统** — 把版式、色彩和创作规则沉淀成可操作的工具
 - **创意实验** — 从静态作品延伸到互动页面与小型工作流
 
-<p align="center"><sub>Make images. Shape color. Build useful tools.</sub></p>
+---
+
+*Make images. Shape color. Build useful tools.*
