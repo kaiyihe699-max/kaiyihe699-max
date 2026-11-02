@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="45" y1="15" x2="1165" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172323"/>
+      <stop offset="0.58" stop-color="#202E2D"/>
+      <stop offset="1" stop-color="#344343"/>
+    </linearGradient>
+    <linearGradient id="wash" x1="704" y1="0" x2="1139" y2="337" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D88E6B" stop-opacity="0.8"/>
+      <stop offset="0.48" stop-color="#D9BE91" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#9CB8A8" stop-opacity="0.32"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#E5B394"/><stop offset="1" stop-color="#A7614E"/></linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#E4D0AA"/><stop offset="1" stop-color="#B58D68"/></linearGradient>
+    <linearGradient id="bar3" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#BEC9B0"/><stop offset="1" stop-color="#738474"/></linearGradient>
+    <linearGradient id="bar4" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#A5BFC1"/><stop offset="1" stop-color="#526F75"/></linearGradient>
+    <linearGradient id="bar5" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#AAA6BC"/><stop offset="1" stop-color="#645F79"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#E8E2D5" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <circle cx="962" cy="170" r="205" fill="url(#wash)" fill-opacity="0.42"/>
+  <path d="M635 0H1200V340H808C872 272 878 205 820 155C762 105 698 91 635 0Z" fill="#D8D0BE" fill-opacity="0.045"/>
+  <path d="M675 284C791 187 867 72 1015 31" stroke="#EADCC6" stroke-opacity="0.36" stroke-width="1.2"/>
+  <path d="M717 322C821 225 925 130 1093 88" stroke="#EADCC6" stroke-opacity="0.22" stroke-width="1.2"/>
+  <circle cx="1014" cy="31" r="3" fill="#E6BD98"/>
+  <circle cx="1093" cy="88" r="3" fill="#B7C8B5"/>
+  <g opacity="0.95">
+    <rect x="823" y="91" width="48" height="163" rx="24" fill="url(#bar1)"/>
+    <rect x="884" y="67" width="48" height="187" rx="24" fill="url(#bar2)"/>
+    <rect x="945" y="111" width="48" height="143" rx="24" fill="url(#bar3)"/>
+    <rect x="1006" y="48" width="48" height="206" rx="24" fill="url(#bar4)"/>
+    <rect x="1067" y="82" width="48" height="172" rx="24" fill="url(#bar5)"/>
+  </g>
+  <path d="M802 275H1137" stroke="#F4EBDD" stroke-opacity="0.38"/>
+  <text x="76" y="93" fill="#D8B08C" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4">VISUAL SYSTEMS  /  COLOR  /  TOOLS</text>
+  <text x="72" y="176" fill="#F3EFE6" font-family="Georgia, 'Times New Roman', serif" font-size="57" letter-spacing="-1.4">Make the image.</text>
+  <text x="72" y="239" fill="#F3EFE6" font-family="Georgia, 'Times New Roman', serif" font-size="57" letter-spacing="-1.4">Shape the color.</text>
+  <path d="M76 278H314" stroke="#D79A79" stroke-width="2"/>
+  <text x="76" y="308" fill="#D3D6CE" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.2">CREATIVE WORKFLOWS, MADE REUSABLE</text>
+</svg>
